@@ -7,8 +7,8 @@ A basic WebGL project showcasing 3D graphics and interaction.
 To run this project locally, follow these simple steps:
 
 ```bash
-git clone https://github.com/blackninja81/webGL
-cd webGL
+git clone https://github.com/blackninja81/artflow
+cd artflow
 npm install
 npm start
 ```
