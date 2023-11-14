@@ -1,4 +1,4 @@
-# OpenGallery
+# Artflow
 
 A basic WebGL project showcasing 3D graphics and interaction.
 
