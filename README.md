@@ -1,7 +1,7 @@
 
 # Artflow: Blender-to-Three.js Visual Buildings
 
-Welcome to ArtFlow, a project for designing visual buildings in Blender, rendering, and integrating them into a Three.js environment using WebGL.
+Welcome to AartFlow, a project for designing visual buildings in Blender, rendering, and integrating them into a Three.js environment using WebGL.
 
 ## Prerequisites
 
