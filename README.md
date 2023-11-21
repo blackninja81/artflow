@@ -25,7 +25,7 @@ Export the model as GLTF format.
 
 
 ## Blender Setup
-Open Blender and load your building model.
-Adjust camera angles and lighting for optimal rendering.
-Export the model as GLTF format.
+> Open Blender and load your building model.
+> Adjust camera angles and lighting for optimal rendering.
+> Export the model as GLTF format.
 
