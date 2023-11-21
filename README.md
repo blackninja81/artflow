@@ -13,7 +13,7 @@ Welcome to ArtFlow, a project for designing visual buildings in Blender, renderi
 
 To run this project locally, follow these simple steps:
 
-1. git Clone https://github.com/blackninja81/artflow
+1. git clone https://github.com/blackninja81/artflow
 2. cd artflow
 3. Open the project in your preferred code editor..
 
