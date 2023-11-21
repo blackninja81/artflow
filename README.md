@@ -34,7 +34,7 @@ Export the model as GLTF format.
  We used a third part addon (poliion) to add people as well as various furniture across the room. 
  We also used poliion to add textures to various surfaces.
  Due to the size of the project we had to cut out some fetures and objects due to very high render times and hardware limitations. 
- Using Three.js to display this 3D model on the web allowed to showcase your work interactively. 
+ Using Three.js to display this 3D model on the web allowed us to showcase your work interactively. 
 
  ## 3js
  We exported the complete model using to gltf format to be able to handle it in threejs. We built the app on react framework
