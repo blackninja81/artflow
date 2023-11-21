@@ -19,7 +19,7 @@ To run this project locally, follow these simple steps:
 
 ## Usage
 
-Design your building in Blender.
+Design your building in blender.
 Render the model in Blender.
 Export the model as GLTF format.
 
