@@ -1,11 +1,7 @@
-# Artflow
 
-A basic WebGL project showcasing 3D graphics and interaction.
+# Artflow: Blender-to-Three.js Visual Buildings
 
-
-# Blender-to-Three.js Visual Buildings
-
-A project for designing visual buildings in Blender, rendering, and integrating them into a Three.js environment using WebGL.
+Welcome to ArtFlow, a project for designing visual buildings in Blender, rendering, and integrating them into a Three.js environment using WebGL.
 
 ## Prerequisites
 
@@ -17,17 +13,15 @@ A project for designing visual buildings in Blender, rendering, and integrating 
 
 To run this project locally, follow these simple steps:
 
-
-git clone https://github.com/blackninja81/artflow
-cd artflow
-Open the project in your preferred code editor..
+1. git clone https://github.com/blackninja81/artflow
+2. cd artflow
+3. Open the project in your preferred code editor..
 
 ## Usage
 
 Design your building in Blender.
 Render the model in Blender.
 Export the model as GLTF format.
-
 
 
 ## Blender Setup
