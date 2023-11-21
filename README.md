@@ -7,7 +7,7 @@ Welcome to ArtFlow, a project for designing visual buildings in Blender, renderi
 
 - [Blender](https://www.blender.org/) (version 2.8 or higher)
 - Node.js and npm
-- Git
+- Gits
 
 ## Getting Started
 
@@ -43,7 +43,7 @@ Export the model as GLTF format.
  On importing the model we ran the following command to generate a 3js file for the model 
  npx gltfjsx public/name.glb                                                            
  This creates a file Name.jsx which contains the 3js cordinates. 
- From here we import the file into the App.jsx file and setup the canvas for the 3js model. In this file we also defined 
+ From here we imported the file into the App.jsx file and setup the canvas for the 3js model. In this file we also defined 
  the controls to move the camera around as well as the mouse. We then run the command npm run dev this runs the web app in the browser. The web app experiences some render issues 
- therefore some items may appear and dissapear depending on the camera perspective
+ therefore some items may appear and dissapear depending on the camera perspective.
 
