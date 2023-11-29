@@ -37,7 +37,7 @@ Export the model as GLTF format.
  - We used poliion to add textures to various surfaces.
  - We also used xoio 3D people collection to add humans to our model.
  - Due to the size of the project we had to cut out some features and objects due to very high render times and hardware limitations. 
- - Using Three.js to display this 3D model on the web allowed us to showcase ou work interactively. 
+ - Using Three.js to display this 3D model on the web allowed us to showcase our work interactively. 
 
  ## 3js
  - We exported the complete model using to gltf format to be able to handle it in threejs. We built the app on react framework
