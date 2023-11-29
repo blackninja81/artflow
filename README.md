@@ -13,11 +13,11 @@ Welcome to ArtFlow, a project for designing visual buildings in Blender, renderi
 
 To run this project locally, follow these simple steps:
 
-1. git clone https://github.com/blackninja81/artflow
+1. ```git clone https://github.com/blackninja81/artflow```
 2. cd artflow
 3. Open the project in your preferred code editor.
-4. In the Terminal, install npm by running the command npm install
-5. To view the project in browser, run the command npm run dev
+4. In the Terminal, install npm by running the command ```npm install```
+5. To view the project in browser, run the command ```npm run dev```
 
 ## Usage
 
@@ -42,17 +42,16 @@ Export the model as GLTF format.
  ## 3js
  - We exported the complete model using to gltf format to be able to handle it in threejs. We built the app on react framework
  - We used the following dependencies: 
- - @react-three/fiber @react-three/drei you can install them using npm i  react-three
- - On importing the model we ran the following command to generate a 3js file for the model 
- - npx gltfjsx public/name.glb                                                            
+ - @react-three/fiber @react-three/drei you can install them using ```npm i  react-three```
+ - On importing the model we ran the following command to generate a 3js file for the model ```npx gltfjsx public/name.glb```                                                          
  - This creates a file Name.jsx which contains the 3js cordinates. 
  - From here we imported the file into the App.jsx file and setup the canvas for the 3js model. In this file we also defined 
  the controls to move the camera around as well as the mouse.
-- We then run the command npm run dev this runs the web app in the browser. The web app experiences some render issues 
+- We then run the command ```npm run dev``` this runs the web app in the browser. The web app experiences some render issues 
  therefore some items may appear and dissapear depending on the camera perspective.
 
 ## Project Backed Up to Google Drive
 - Given the large size of the assets we are using google drive to store them
 - After cloning the repo download the public folder from the drive link  below. Paste it into the project replacing the current public folder
-- Run npm install to install all necessary dependencies
+- Run npm install to install all necessary dep`endencies
 - Link: https://drive.google.com/drive/folders/1lK8XBYA7f4x3PoAzf01W1xgiogZG6ltW
