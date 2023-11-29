@@ -30,10 +30,11 @@ Export the model as GLTF format.
  Export the model as GLTF format.
 
  ## Blender
- - We used blender to deal with creating the 3d model first we created the basic layout of the model using various components such as cubes and plesh. 
- - We used a third part addon (poliion) to add people as well as various furniture across the room. 
- - We also used poliion to add textures to various surfaces.
- - Due to the size of the project we had to cut out some fetures and objects due to very high render times and hardware limitations. 
+ - We used Blender to deal with creating the 3d model first we created the basic layout of the model using various components such as cubes and plesh. 
+ - We used a third part addon (poliion) to add various furniture across the room. 
+ - We used poliion to add textures to various surfaces.
+ - We also used xoio 3D people collection to add humans to our model.
+ - Due to the size of the project we had to cut out some features and objects due to very high render times and hardware limitations. 
  - Using Three.js to display this 3D model on the web allowed us to showcase our work interactively. 
 
  ## 3js
