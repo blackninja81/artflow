@@ -16,6 +16,8 @@ To run this project locally, follow these simple steps:
 1. git clone https://github.com/blackninja81/artflow
 2. cd artflow
 3. Open the project in your preferred code editor.
+4. In the Terminal, install npm by running the command npm install
+5. To view the project in browser, run the command npm run dev
 
 ## Usage
 
