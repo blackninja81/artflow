@@ -50,8 +50,7 @@ Export the model as GLTF format.
  therefore some items may appear and dissapear depending on the camera perspective.
 
 ## Project Backed Up to Google Drive
-
-We backed up our project on  google drive, ensuring its accessibility and protection. please click the link below to download.
-Link: https://drive.google.com/drive/folders/1lK8XBYA7f4x3PoAzf01W1xgiogZG6ltW
-
-
+- Given the large size of the assets we are using google drive to store them
+- After cloning the repo download the public folder from the drive link  below. Paste it into the project replacing the current public folder
+- Run npm install to install all necessary dependencies
+- Link: https://drive.google.com/drive/folders/1lK8XBYA7f4x3PoAzf01W1xgiogZG6ltW
