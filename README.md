@@ -49,3 +49,9 @@ Export the model as GLTF format.
 - We then run the command npm run dev this runs the web app in the browser. The web app experiences some render issues 
  therefore some items may appear and dissapear depending on the camera perspective.
 
+## Project Backed Up to Google Drive
+
+We backed up our project on  google drive, ensuring its accessibility and protection. please click the link below to download.
+Link: https://drive.google.com/drive/folders/1lK8XBYA7f4x3PoAzf01W1xgiogZG6ltW
+
+
