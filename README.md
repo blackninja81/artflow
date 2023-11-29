@@ -9,7 +9,7 @@ Welcome to ArtFlow, a project for designing visual buildings in Blender, renderi
 - Node.js and npm
 - Gits
 
-# Getting Started
+## Getting Started
 
 to run this project locally, follow these simple steps:
 
